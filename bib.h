@@ -1,0 +1,23 @@
+#ifndef BIB_H
+#define BIB_H
+#include "iostream"
+#include "QSqlQuery"
+#include "QSqlDatabase"
+#include "QDebug"
+#include "string.h"
+#include "ctime"
+#include "QDate"
+#include "QTableWidgetItem"
+#include "QMessageBox"
+#include <QtNetwork/QAbstractSocket>
+#include <QtNetwork/QSslSocket>
+#include <QString>
+#include <QTextStream>
+#include <QMediaPlayer>
+#include <QDebug>
+#include <QtWidgets/QMessageBox>
+#include <QByteArray>
+#include <QFile>
+#include <QFileInfo>
+#include <QSystemTrayIcon>
+#endif // BIB_H
